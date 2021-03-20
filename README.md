@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm an 18-year-old who makes stuff on the internet.
+## I'm a 19-year-old who makes stuff on the internet.
 
 I'm currently doing freelance work<sup>[work with me?](mailto:soy@miguelpiedrafita.com)</sup> and building smaller projects on the side, while I work on growing [Sitesauce](https://sitesauce.app) (a one-click solution to create static sites from any dynamically-generated website, and keep them updated when content changes) and getting confortable with [live-coding on Twitch](https://twitch.tv/m1guelpf).
 
