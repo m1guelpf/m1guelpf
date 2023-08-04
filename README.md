@@ -4,7 +4,7 @@
 
 I work at [Worldcoin](https://worldcoin.org/), building the most scalable & private sybil-resistance solution.
 
-On my free time, I like to [build](https://miguel.build). Here's a few of my favourite open-source projects:
+In my free time, I like to [build](https://miguel.build). Here's a few of my favourite open-source projects:
 
 - [cog-rust](https://github.com/m1guelpf/cog-rust): Rust containers for machine learning.
 - [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): A Go CLI to run your own ChatGPT Telegram bot.
