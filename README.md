@@ -7,7 +7,8 @@ I work at [Worldcoin](https://worldcoin.org/), building the most scalable & priv
 In my free time, I like to [build](https://miguel.build). Here's a few of my favourite open-source projects:
 
 - [cog-rust](https://github.com/m1guelpf/cog-rust): Rust containers for machine learning.
-- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): A Go CLI to run your own ChatGPT Telegram bot.
+- [ensemble](https://github.com/m1guelpf/ensemble): A Laravel-inspired ORM for Rust.
+- [commit](https://github.com/m1guelpf/commit): A command palette-style Git client for blazing-fast commits.
 - [lil-web3](https://github.com/m1guelpf/lil-web3): Simple, intentionally-limited versions of web3 protocols & apps.
 - [auto-commit](https://github.com/m1guelpf/auto-commit): Rust CLI that automatically writes commit messages for you, built in Rust.
 - [yt-whisper](https://github.com/m1guelpf/yt-whisper): Automatically generate subtitles for YouTube videos, using OpenAI's Whisper.
