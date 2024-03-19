@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a 21-year-old maker, and I love building things.
+## I'm a 22-year-old maker, and I love building things.
 
 I work at [Worldcoin](https://worldcoin.org/), building the most scalable & private sybil-resistance solution.
 
