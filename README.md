@@ -17,6 +17,3 @@ In my free time, I like to [build](https://miguel.build). Here's a few of my fav
 - [php-evm](https://github.com/m1guelpf/php-evm): A PHP implementation of the Ethereum Virtual Machine, because why not.
 - [connect4-sol](https://github.com/m1guelpf/connect4-sol): A hyper-optimised Connect 4 implementation on Solidity.
 - [...](https://miguel.build/)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/m1guelpf/m1guelpf/assets/23558090/96adcebd-0c35-4af4-a805-395d55815071');]{x0000}$}
