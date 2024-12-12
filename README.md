@@ -2,7 +2,7 @@
 
 ## I'm a 22-year-old maker, and I love building things.
 
-I work at [Worldcoin](https://worldcoin.org/), building the most scalable & private sybil-resistance solution.
+I work at [World](https://world.org/), building anonymous proof of humanity and deepfake protection.
 
 In my free time, I like to [build](https://miguel.build). Here's a few of my favourite open-source projects:
 
@@ -11,7 +11,8 @@ In my free time, I like to [build](https://miguel.build). Here's a few of my fav
 - [commit](https://github.com/m1guelpf/commit): A command palette-style Git client for blazing-fast commits.
 - [lil-web3](https://github.com/m1guelpf/lil-web3): Simple, intentionally-limited versions of web3 protocols & apps.
 - [auto-commit](https://github.com/m1guelpf/auto-commit): Rust CLI that automatically writes commit messages for you, built in Rust.
-- [yt-whisper](https://github.com/m1guelpf/yt-whisper): Automatically generate subtitles for YouTube videos, using OpenAI's Whisper.
+- [orbit](https://github.com/m1guelpf/orbit): Self-hosted, simple & zero-downtime deployments for Laravel apps.
+- [swift-realtime-openai](https://github.com/m1guelpf/swift-realtime-openai): A modern Swift SDK for OpenAI's realtime API.
 - [plz-cli](https://github.com/m1guelpf/plz-cli): Copilot for your terminal
 - [armchair](https://github.com/m1guelpf/armchair): A Next.js starter kit for full-stack web3 apps.
 - [php-evm](https://github.com/m1guelpf/php-evm): A PHP implementation of the Ethereum Virtual Machine, because why not.
