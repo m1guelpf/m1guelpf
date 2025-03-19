@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a 22-year-old maker, and I love building things.
+## I'm a 23-year-old maker, and I love building things.
 
 I work at [World](https://world.org/), building anonymous proof of humanity and deepfake protection.
 
